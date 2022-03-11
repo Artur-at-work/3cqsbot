@@ -30,7 +30,7 @@ Create a [3commas api account](https://3commas.io/api_access_tokens) too and ins
 
 ## Installation
 ### Python modules
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 
 # Configuration (config.ini)
 Copy the `config.ini.example` to `config.ini` and change your settings regarding the available settings below. The value type doesn't matter, because Pythons configparser is taking care of the types. So you don't need '' or "" around the values.
